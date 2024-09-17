@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 #                                         I'm a Data Scientist / IT Support Analyst
 
-###I have technical experience and interest in:
+### I have technical experience and interest in:
 
 . Machine Learning
 . Natural Language Processing
