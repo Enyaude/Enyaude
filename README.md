@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div style="text-align: center;">
-#  Hi there, nice to meet you. 😇
+Hi there, nice to meet you. 😇
 </div>
 
 ## I'm Samuel 🤖   (yes, and fondly called Engr. Sam 😄)
