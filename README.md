@@ -12,14 +12,14 @@ You can click the Preview link to take a look at your changes.
 
 ### I have technical experience and interest in:
 
-. Machine Learning \n
-. Natural Language Processing \n
-. Generative AI \n
-. System Admin \n
-. IT Support \n
-. Robotics \n
-. MLOps \n
-. Deep Learning \n
+* Machine Learning 
+* Natural Language Processing 
+* Generative AI 
+* System Admin 
+* IT Support 
+* Robotics 
+* MLOps 
+* Deep Learning 
 
 👉 My Online Portfolio
 Languages and Tools:
