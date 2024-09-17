@@ -34,3 +34,35 @@ My Hobbies and Interests:
 How to reach me:
 
 LinkedIn X Kaggle YouTube
+
+
+
+## Engr. Sam 🤖
+
+**Data Scientist / IT Technical Support Engineer**
+
+**About Me:**
+
+I'm a passionate Data Scientist and IT Technical Support Engineer with a strong interest in Machine Learning, Natural Language Processing, Generative AI, System Administration, IT Support, Robotics, MLOps, and Deep Learning.
+
+**Skills:**
+
+* **Languages and Tools:** Python, TensorFlow, PyTorch, Keras, Scikit-Learn, Pandas, NumPy, Jupyter, Git, Docker, Kubernetes, MATLAB, JavaScript, React, Power BI
+* **Technical Interests:** Machine Learning, Natural Language Processing, Generative AI, System Administration, IT Support, Robotics, MLOps, Deep Learning
+
+**Projects:**
+
+* **[Project 1 Name]** - [Brief description]
+* **[Project 2 Name]** - [Brief description]
+
+**Connect with Me:**
+
+* **LinkedIn:** [Your LinkedIn profile link]
+* **Kaggle:** [Your Kaggle profile link]
+* **YouTube:** [Your YouTube channel link]
+
+**Hobbies and Interests:**
+
+* Traveling ✈
+* Music 🎹
+* Coding 💻
