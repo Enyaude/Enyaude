@@ -6,38 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 #                                Hi there, nice to meet you. 😇
 
-##                                       I'm Samuel (yes, But fondly called Engr. Sam 😄)
-
-#                                         I'm a Data Scientist / IT Technical Support Engineer
-
-### I have technical experience and interest in:
-
-* Machine Learning 
-* Natural Language Processing 
-* Generative AI 
-* System Admin 
-* IT Support 
-* Robotics 
-* MLOps 
-* Deep Learning 
-
-👉 My Online Portfolio
-Languages and Tools:
-
-Python TensorFlow PyTorch Keras Scikit-Learn Pandas NumPy Jupyter Git Docker Kubernetes MATLAB JavaScript React Power BI
-My Hobbies and Interests:
-
-    Traveling ✈
-    Music 🎹
-    Coding 💻
-
-How to reach me:
-
-LinkedIn X Kaggle YouTube
-
-
-
-## Engr. Sam 🤖
+## I'm Samuel 🤖   (yes, and fondly called Engr. Sam 😄)
 
 **Data Scientist / IT Technical Support Engineer**
 
@@ -50,6 +19,8 @@ I'm a passionate Data Scientist and IT Technical Support Engineer with a strong 
 * **Languages and Tools:** Python, TensorFlow, PyTorch, Keras, Scikit-Learn, Pandas, NumPy, Jupyter, Git, Docker, Kubernetes, MATLAB, JavaScript, React, Power BI
 * **Technical Interests:** Machine Learning, Natural Language Processing, Generative AI, System Administration, IT Support, Robotics, MLOps, Deep Learning
 
+👉 **My Online Portfolio** [https://enyaudesamuelidino.wixsite.com/samuel-enyaude]
+
 **Projects:**
 
 * **[Project 1 Name]** - [Brief description]
@@ -60,9 +31,12 @@ I'm a passionate Data Scientist and IT Technical Support Engineer with a strong 
 * **LinkedIn:** [Your LinkedIn profile link]
 * **Kaggle:** [Your Kaggle profile link]
 * **YouTube:** [Your YouTube channel link]
+  
 
 **Hobbies and Interests:**
 
 * Traveling ✈
 * Music 🎹
 * Coding 💻
+
+
