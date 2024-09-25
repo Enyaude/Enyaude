@@ -18,7 +18,7 @@ I'm a passionate Data Scientist and IT Technical Support Engineer with a strong 
 
 **Skills:**
 
-* **Languages and Tools:** Python, TensorFlow, PyTorch, Keras, Scikit-Learn, Pandas, NumPy, Jupyter, Git, Docker, Kubernetes, MATLAB, JavaScript, React, Power BI
+* **Languages and Tools:** Python, TensorFlow, PyTorch, Keras, Scikit-Learn, Pandas, NumPy, Jupyter, Git, Power BI
 * **Technical Interests:** Machine Learning, Natural Language Processing, Generative AI, System Administration, IT Support, Robotics, MLOps, Deep Learning
 
 👉 **My Online Portfolio** [https://enyaudesamuelidino.wixsite.com/samuel-enyaude]
