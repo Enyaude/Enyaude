@@ -10,11 +10,11 @@ Hi there, nice to meet you. 😇
 
 ## I'm Samuel 🤖   (yes, and fondly called Engr. Sam 😄)
 
-**Data Scientist / IT Technical Support Engineer**
+**Data Scientist / Machine Learning Engineer**
 
 **About Me:**
 
-I'm a passionate Data Scientist and IT Technical Support Engineer with a strong interest in Machine Learning, Natural Language Processing, Generative AI, System Administration, IT Support, Robotics, MLOps, and Deep Learning.
+I'm a passionate Data Scientist and Machine Learning Engineer with a strong interest in Machine Learning, Natural Language Processing, Generative AI, System Administration, IT Support, Robotics, MLOps, and Deep Learning.
 
 **Skills:**
 
