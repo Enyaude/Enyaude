@@ -25,8 +25,8 @@ I'm a passionate Data Scientist and Machine Learning Engineer with a strong inte
 
 **Projects:**
 
-* **[Project 1 Name]** - [Brief description]
-* **[Project 2 Name]** - [Brief description]
+* **[Repositories]** - [Brief description]
+* **[Repositories]** - [Brief description]
 
 **Connect with Me:**
 
