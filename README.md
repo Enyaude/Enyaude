@@ -30,7 +30,7 @@ I'm a passionate Data Scientist and Machine Learning Engineer with a strong inte
 
 **Connect with Me:**
 
-* **LinkedIn:** [Your LinkedIn profile link]
+* **LinkedIn:** [www.linkedin.com/in/samuel-enyaude]
 * **Kaggle:** [Your Kaggle profile link]
 * **YouTube:** [Your YouTube channel link]
   
