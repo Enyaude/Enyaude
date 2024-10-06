@@ -21,7 +21,7 @@ I'm a passionate Data Scientist and Machine Learning Engineer with a strong inte
 * **Languages and Tools:** Python, TensorFlow, PyTorch, Keras, Scikit-Learn, Pandas, NumPy, Jupyter, Git, Power BI
 * **Technical Interests:** Machine Learning, Natural Language Processing, Generative AI, System Administration, IT Support, Robotics, MLOps, Deep Learning
 
-👉 **My Online Portfolio** [https://enyaudesamuelidino.wixsite.com/samuel-enyaude]
+👉 **[My Online Portfolio]** (https://enyaudesamuelidino.wixsite.com/samuel-enyaude)
 
 **Projects:**
 
@@ -30,10 +30,9 @@ I'm a passionate Data Scientist and Machine Learning Engineer with a strong inte
 
 **Connect with Me:**
 
-* **LinkedIn:** [www.linkedin.com/in/samuel-enyaude]
-* **Kaggle:** [Your Kaggle profile link]
-* **YouTube:** [Your YouTube channel link]
-* ![20945480](https://www.linkedin.com/in/samuel-enyaude)
+* **[LinkedIn Profile]**(https://www.linkedin.com/in/samuel-enyaude)
+* **[GitHub Profile]**(https://github.com/Enyaude)
+* **[Kaggle]**(https://www.kaggle.com/enyaudesamuelidinotu)
 
 **Hobbies and Interests:**
 
