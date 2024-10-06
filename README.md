@@ -25,8 +25,8 @@ I'm a passionate Data Scientist and Machine Learning Engineer with a strong inte
 
 **Projects:**
 
-* **[Repositories]** - [Brief description]
-* **[Repositories]** - [Brief description]
+* **California House Price Prediction App** - https://bit.ly/3Y1Xv3s
+* **Sentiment Analysis of Movie Reviews App** - https://bit.ly/4evo5ZL 
 
 **Connect with Me:**
 
