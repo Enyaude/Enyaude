@@ -4,7 +4,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div style="text-align: center; font-family: 'Arial', sans-serif; padding: 20px;">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; border: 3px solid #007bff;">
   <h1 style="color: #333; margin-top: 10px;">Hello, I'm Samuel Idinotu Enyaude! 👋</h1>
   <p style="font-size: 18px; color: #555;">Data Scientist | Machine Learning Engineer | IT Support Specialist | Django Developer | Tech Enthusiast</p>
   <p style="font-size: 16px; color: #777;">Fondly called <strong>Engr. Sam</strong> 😄</p>
